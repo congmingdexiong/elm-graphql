@@ -1,0 +1,19 @@
+index.html
+# Elm build output
+elm.js
+elm-stuff/
+.elm-spa/
+
+# Dependencies (if using npm)
+node_modules/
+
+# Editor/OS-specific
+.DS_Store
+*.swp
+*.swo
+*.tmp
+*.log
+
+# Environment variables or secrets
+.env
+.env.*
